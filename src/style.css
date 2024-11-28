@@ -1,0 +1,30 @@
+#titulo {
+  text-align:center;
+  margin:70px;
+  padding:20px;
+  background-color:#f76700;
+  border-radius:20px;
+  border-style:dashed;
+  border-width:20px;
+  border-color:#120801;
+}
+
+h2{
+  background-color:#170a01;
+  color:white;
+  margin:20px;
+  border-radius:20px;
+}
+#dois {
+  background-color:#4a2104;
+  color:white;
+  border-radius:20px;
+}
+#tres{
+  background-color:#9c633b;
+}
+body{
+  background-color:#ad5f28;
+  background-repeat:no-repeat;
+  background-size: cover;
+}
